@@ -1,3 +1,7 @@
+⚠️ Disclaimer  
+This project is intended for educational and informational purposes only. It does not constitute financial advice, investment recommendations, or trading guidance. Cryptocurrency markets are volatile and unpredictable—any projections or analyses presented here are speculative and should not be used to make financial decisions. Always consult a qualified financial advisor before making investment choices.
+
+
 # Bitcoin Trading 2025
 # Bitcoin Price Prediction for 2030
 
