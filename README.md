@@ -30,3 +30,5 @@ This project explores the long-term trajectory of Bitcoin (BTC) using historical
 - 🧠 Applies forecasting models to project future prices
 - 🧮 Compares multiple prediction scenarios (conservative, optimistic, speculative)
 - 🧱 Modular code structure for reproducibility
+
+<img width="1243" height="522" alt="image" src="https://github.com/user-attachments/assets/6a709cca-4808-4468-8846-9c196699405e" />
